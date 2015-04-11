@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="50"
+   height="50"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="新規ドキュメント 1">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8.7872041"
+     inkscape:cx="19.899497"
+     inkscape:cy="26.733668"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1215"
+     inkscape:window-height="776"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1002.3622)">
+    <path
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 7.2833178,1022.5461 4.3244692,24.695 25.719216,0 5.348687,-24.0122 z"
+       id="path2985"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/mh/play/garbagecollection/img/gomi.png"
+       inkscape:export-xdpi="127.33972"
+       inkscape:export-ydpi="127.33972" />
+    <path
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 24.922603,24.05318 24.467396,40.09924"
+       id="path2989"
+       inkscape:connector-curvature="0"
+       transform="translate(0,1002.3622)"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/mh/play/garbagecollection/img/gomi.png"
+       inkscape:export-xdpi="127.33972"
+       inkscape:export-ydpi="127.33972" />
+    <path
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 14.680437,24.05318 3.186452,15.818456"
+       id="path2991"
+       inkscape:connector-curvature="0"
+       transform="translate(0,1002.3622)"
+       inkscape:export-filename="/home/mh/play/garbagecollection/img/gomi.png"
+       inkscape:export-xdpi="127.33972"
+       inkscape:export-ydpi="127.33972" />
+    <path
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 31.864515,40.09924 34.709561,24.62219"
+       id="path2993"
+       inkscape:connector-curvature="0"
+       transform="translate(0,1002.3622)"
+       inkscape:export-filename="/home/mh/play/garbagecollection/img/gomi.png"
+       inkscape:export-xdpi="127.33972"
+       inkscape:export-ydpi="127.33972" />
+    <path
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 4.6658754,17.111268 44.951727,17.338872 41.42387,11.534978 8.6489399,13.242006 z"
+       id="path2995"
+       inkscape:connector-curvature="0"
+       transform="translate(0,1002.3622)"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/mh/play/garbagecollection/img/gomi.png"
+       inkscape:export-xdpi="127.33972"
+       inkscape:export-ydpi="127.33972" />
+    <path
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 24.922603,10.852167 -1.934631,-3.9830644 3.75546,0.5690092 z"
+       id="path2997"
+       inkscape:connector-curvature="0"
+       transform="translate(0,1002.3622)"
+       inkscape:export-filename="/home/mh/play/garbagecollection/img/gomi.png"
+       inkscape:export-xdpi="127.33972"
+       inkscape:export-ydpi="127.33972" />
+  </g>
+</svg>
