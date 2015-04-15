@@ -321,33 +321,19 @@ Gomibako.prototype = Object.create(Chara.prototype);
 
 
 //// func
-var bornCount = function(){
+function bornCount(){
     return Math.max(minBornCount, baseBornCount - score/scorePerOne);
-};
-var nerdizePos = function(){
+}
+function nerdizePos(){
     return Math.max(minNerdizePos, baseNerdizePos - score);
-};
+}
 
-var infotext = function(){
+function infotext(){
     return createName() + " : " + createInfo();
-};
-var createInfo = function(){
-    var infos=["輪に入らず一人で絵を描いていた",
-               "輪に入らず一人で本を読んでいた",
-               "\"魔法使い\"になった",
-               "新興宗教に入信した",
-               "友達ができなかった",
-               "高校デビューに失敗した",
-               "同人活動にハマった",
-               "２浪した",
-               "就職活動に失敗した",
-               "留年した",
-               "リストラされた"];
-    return infos[Math.floor(Math.random()*infos.length)];
-};
+}
 
 //// scene
-var createTitleScene = function(){
+function createTitleScene(){
     var scene = new Scene;
 
     var title = new Label("Garbage Collection");
@@ -370,7 +356,7 @@ var createTitleScene = function(){
     return scene;
 };
 
-var createGameScene = function(){
+function createGameScene(){
     var scene = new Scene;
 
     // char ini
@@ -433,7 +419,7 @@ var createGameScene = function(){
     return scene;
 };
 
-var createGameoverScene = function(str){
+function createGameoverScene(str){
     var scene = new Scene;
 
     var logo = new Label("Game Over");
