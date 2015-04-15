@@ -332,8 +332,39 @@ var infotext = function(){
     return createName() + " : " + createInfo();
 };
 var createName = function(){
-    var names=["鈴木","佐藤","田中","小林","渡辺",
-               "林","村上","本田","山下","原"];
+    var names=[
+        "有地",
+        "石村",
+        "稲荷場",
+        "今西",
+        "王",
+        "小野",
+        "加地",
+        "亀澤",
+        "木了",
+        "後藤",
+        "小林",
+        "近藤",
+        "佐伯",
+        "酒寄",
+        "佐々木",
+        "佐藤",
+        "城下",
+        "中村",
+        "西脇",
+        "林",
+        "原",
+        "藤原",
+        "村瀬",
+        "森永",
+        "山下",
+        "米山",
+        "和賀",
+        "渡辺",
+        "三浦",
+        "山口",
+        "八尋"
+    ];
     return names[Math.floor(Math.random()*names.length)];
 };
 var createInfo = function(){
