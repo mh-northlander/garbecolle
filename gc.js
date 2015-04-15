@@ -331,42 +331,6 @@ var nerdizePos = function(){
 var infotext = function(){
     return createName() + " : " + createInfo();
 };
-var createName = function(){
-    var names=[
-        "有地",
-        "石村",
-        "稲荷場",
-        "今西",
-        "王",
-        "小野",
-        "加地",
-        "亀澤",
-        "木了",
-        "後藤",
-        "小林",
-        "近藤",
-        "佐伯",
-        "酒寄",
-        "佐々木",
-        "佐藤",
-        "城下",
-        "中村",
-        "西脇",
-        "林",
-        "原",
-        "藤原",
-        "村瀬",
-        "森永",
-        "山下",
-        "米山",
-        "和賀",
-        "渡辺",
-        "三浦",
-        "山口",
-        "八尋"
-    ];
-    return names[Math.floor(Math.random()*names.length)];
-};
 var createInfo = function(){
     var infos=["輪に入らず一人で絵を描いていた",
                "輪に入らず一人で本を読んでいた",
