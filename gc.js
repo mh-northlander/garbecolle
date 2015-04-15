@@ -446,7 +446,7 @@ function createGameoverScene(str){
         //game.replaceScene(createGameScene());
     });
 
-    var text = "#ガベこれ で" + score + "点を記録しました http://idylls.jp/~mh/garbagecollection/gc.html";
+    var text = "#ガベこれ で" + score + "点を記録しました";
     document.getElementById('tweetlink').href = "https://twitter.com/share?text=" + encodeURIComponent(text);
 
     return scene;
